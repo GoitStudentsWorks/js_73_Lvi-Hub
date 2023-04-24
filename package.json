@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Lvi-Hub/goit-js-filmoteka",
+  "homepage": "https://github.com/GoitStudentsWorks/js_73_Lvi-Hub",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-filmoteka/"
+    "build": "parcel build src/*.html --public-url /js_73_Lvi-Hub/"
   },
   "repository": {
     "type": "git",
